@@ -1,6 +1,6 @@
 # first_name = Faker::Name.first_name
 
-1000.times do
+100.times do
 
   first_name = first_name: Faker::Name.first_name
   last_name = last_name: Faker::Name.last_name
